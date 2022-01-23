@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cengiztt
-- 👀 I’m interested in JS and so on. Whatever on the road from JS.
+- 👋 Hi, I’m @cengiztt!
+- 👀 I’m interested in JS and so on whatever on the road from JS.
 - 🌱 I’m currently learning CSS and JS.
 - 💞️ I’m looking to collaborate on CSS and JS.
-- 📫 How to reach me GitHub
+- 📫 Can be reached me by GitHub.
 
 <!---
 cengiztt/cengiztt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
