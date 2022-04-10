@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @cengiztt!
 - 👀 Interested in JS and so on. According to frontend roadmap, HTML and CSS have to be learned before JS.
+- Following Kodluyoruz.org and btkakademi.gov.tr
 - 📫 Can be reached me by GitHub.
 
 <!---
