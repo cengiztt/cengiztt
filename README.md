@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cengiztt!
-- 👀 I’m interested in JS and so on whatever on the road from JS.
-- 🌱 I’m currently learning CSS and JS.
-- 💞️ I’m looking to collaborate on CSS and JS.
+- 👀 Interested in JS and so on. According to frontend roadmap, HTML and CSS have to be learned before JS.
 - 📫 Can be reached me by GitHub.
 
 <!---
